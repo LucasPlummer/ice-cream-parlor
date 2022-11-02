@@ -1,0 +1,21 @@
+main {
+    min-height: 100vh;
+    background-color: rgb(255, 239, 185);
+}
+
+.nav {
+    background-color: rgb(245, 158, 245);
+}
+
+.round-border {
+    border: 3px solid rgb(245, 158, 245);
+    border-radius: 5px;
+}
+
+.pt-6 {
+    padding-top: 4rem !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
